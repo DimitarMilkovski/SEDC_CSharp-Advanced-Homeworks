@@ -1,0 +1,12 @@
+C:\Users\Dell\Desktop\C# Advanced\Homeworks\Homework1\SEDC.C#Advances.Homework1\SEDC.C#Advances.Homework1\bin\Debug\net6.0\SEDC.C#Advanced.Homework1.Domain.deps.json
+C:\Users\Dell\Desktop\C# Advanced\Homeworks\Homework1\SEDC.C#Advances.Homework1\SEDC.C#Advances.Homework1\bin\Debug\net6.0\SEDC.C#Advanced.Homework1.Domain.dll
+C:\Users\Dell\Desktop\C# Advanced\Homeworks\Homework1\SEDC.C#Advances.Homework1\SEDC.C#Advances.Homework1\bin\Debug\net6.0\SEDC.C#Advanced.Homework1.Domain.pdb
+C:\Users\Dell\Desktop\C# Advanced\Homeworks\Homework1\SEDC.C#Advances.Homework1\SEDC.C#Advances.Homework1\obj\Debug\net6.0\SEDC.C#Advanced.Homework1.Domain.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\C# Advanced\Homeworks\Homework1\SEDC.C#Advances.Homework1\SEDC.C#Advances.Homework1\obj\Debug\net6.0\SEDC.C#Advanced.Homework1.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\C# Advanced\Homeworks\Homework1\SEDC.C#Advances.Homework1\SEDC.C#Advances.Homework1\obj\Debug\net6.0\SEDC.C#Advanced.Homework1.Domain.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\C# Advanced\Homeworks\Homework1\SEDC.C#Advances.Homework1\SEDC.C#Advances.Homework1\obj\Debug\net6.0\SEDC.C#Advanced.Homework1.Domain.AssemblyInfo.cs
+C:\Users\Dell\Desktop\C# Advanced\Homeworks\Homework1\SEDC.C#Advances.Homework1\SEDC.C#Advances.Homework1\obj\Debug\net6.0\SEDC.C#Advanced.Homework1.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C# Advanced\Homeworks\Homework1\SEDC.C#Advances.Homework1\SEDC.C#Advances.Homework1\obj\Debug\net6.0\SEDC.C#Advanced.Homework1.Domain.dll
+C:\Users\Dell\Desktop\C# Advanced\Homeworks\Homework1\SEDC.C#Advances.Homework1\SEDC.C#Advances.Homework1\obj\Debug\net6.0\refint\SEDC.C#Advanced.Homework1.Domain.dll
+C:\Users\Dell\Desktop\C# Advanced\Homeworks\Homework1\SEDC.C#Advances.Homework1\SEDC.C#Advances.Homework1\obj\Debug\net6.0\SEDC.C#Advanced.Homework1.Domain.pdb
+C:\Users\Dell\Desktop\C# Advanced\Homeworks\Homework1\SEDC.C#Advances.Homework1\SEDC.C#Advances.Homework1\obj\Debug\net6.0\ref\SEDC.C#Advanced.Homework1.Domain.dll

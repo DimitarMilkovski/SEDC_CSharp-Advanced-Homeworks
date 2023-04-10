@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.C#Advanced.Homework1.Domain", "SEDC.C#Advances.Homework1\SEDC.C#Advanced.Homework1.Domain.csproj", "{9740F94D-B4E9-4136-B246-E8DB44B908F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.C#Advanced.Homework1.ConsoleApp", "SEDC.C#Advanced.Homework1.ConsoleApp\SEDC.C#Advanced.Homework1.ConsoleApp.csproj", "{B743E211-5D19-4DF7-BA08-DED48AA01F31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9740F94D-B4E9-4136-B246-E8DB44B908F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9740F94D-B4E9-4136-B246-E8DB44B908F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9740F94D-B4E9-4136-B246-E8DB44B908F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9740F94D-B4E9-4136-B246-E8DB44B908F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B743E211-5D19-4DF7-BA08-DED48AA01F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B743E211-5D19-4DF7-BA08-DED48AA01F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B743E211-5D19-4DF7-BA08-DED48AA01F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B743E211-5D19-4DF7-BA08-DED48AA01F31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD6C1D18-7829-4E9C-92E5-553921ADA2F8}
+	EndGlobalSection
+EndGlobal
