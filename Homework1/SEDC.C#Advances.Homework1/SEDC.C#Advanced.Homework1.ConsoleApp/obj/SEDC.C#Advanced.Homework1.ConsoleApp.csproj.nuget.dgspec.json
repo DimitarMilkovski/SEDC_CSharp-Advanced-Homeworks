@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\Desktop\\C# Advanced\\Homeworks\\Homework1\\SEDC.C#Advances.Homework1\\SEDC.C#Advanced.Homework1.ConsoleApp\\SEDC.C#Advanced.Homework1.ConsoleApp.csproj": {}
+    "C:\\Users\\Dell\\Desktop\\C# Advanced\\Homeworks\\SEDC_CSharp-Advanced-Homeworks\\Homework1\\SEDC.C#Advances.Homework1\\SEDC.C#Advanced.Homework1.ConsoleApp\\SEDC.C#Advanced.Homework1.ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\Desktop\\C# Advanced\\Homeworks\\Homework1\\SEDC.C#Advances.Homework1\\SEDC.C#Advanced.Homework1.ConsoleApp\\SEDC.C#Advanced.Homework1.ConsoleApp.csproj": {
+    "C:\\Users\\Dell\\Desktop\\C# Advanced\\Homeworks\\SEDC_CSharp-Advanced-Homeworks\\Homework1\\SEDC.C#Advances.Homework1\\SEDC.C#Advanced.Homework1.ConsoleApp\\SEDC.C#Advanced.Homework1.ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\C# Advanced\\Homeworks\\Homework1\\SEDC.C#Advances.Homework1\\SEDC.C#Advanced.Homework1.ConsoleApp\\SEDC.C#Advanced.Homework1.ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\C# Advanced\\Homeworks\\SEDC_CSharp-Advanced-Homeworks\\Homework1\\SEDC.C#Advances.Homework1\\SEDC.C#Advanced.Homework1.ConsoleApp\\SEDC.C#Advanced.Homework1.ConsoleApp.csproj",
         "projectName": "SEDC.C#Advanced.Homework1.ConsoleApp",
-        "projectPath": "C:\\Users\\Dell\\Desktop\\C# Advanced\\Homeworks\\Homework1\\SEDC.C#Advances.Homework1\\SEDC.C#Advanced.Homework1.ConsoleApp\\SEDC.C#Advanced.Homework1.ConsoleApp.csproj",
+        "projectPath": "C:\\Users\\Dell\\Desktop\\C# Advanced\\Homeworks\\SEDC_CSharp-Advanced-Homeworks\\Homework1\\SEDC.C#Advances.Homework1\\SEDC.C#Advanced.Homework1.ConsoleApp\\SEDC.C#Advanced.Homework1.ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Desktop\\C# Advanced\\Homeworks\\Homework1\\SEDC.C#Advances.Homework1\\SEDC.C#Advanced.Homework1.ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Desktop\\C# Advanced\\Homeworks\\SEDC_CSharp-Advanced-Homeworks\\Homework1\\SEDC.C#Advances.Homework1\\SEDC.C#Advanced.Homework1.ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Dell\\Desktop\\C# Advanced\\Homeworks\\Homework1\\SEDC.C#Advances.Homework1\\SEDC.C#Advances.Homework1\\SEDC.C#Advanced.Homework1.Domain.csproj": {
-                "projectPath": "C:\\Users\\Dell\\Desktop\\C# Advanced\\Homeworks\\Homework1\\SEDC.C#Advances.Homework1\\SEDC.C#Advances.Homework1\\SEDC.C#Advanced.Homework1.Domain.csproj"
+              "C:\\Users\\Dell\\Desktop\\C# Advanced\\Homeworks\\SEDC_CSharp-Advanced-Homeworks\\Homework1\\SEDC.C#Advances.Homework1\\SEDC.C#Advances.Homework1\\SEDC.C#Advanced.Homework1.Domain.csproj": {
+                "projectPath": "C:\\Users\\Dell\\Desktop\\C# Advanced\\Homeworks\\SEDC_CSharp-Advanced-Homeworks\\Homework1\\SEDC.C#Advances.Homework1\\SEDC.C#Advances.Homework1\\SEDC.C#Advanced.Homework1.Domain.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\Dell\\Desktop\\C# Advanced\\Homeworks\\Homework1\\SEDC.C#Advances.Homework1\\SEDC.C#Advances.Homework1\\SEDC.C#Advanced.Homework1.Domain.csproj": {
+    "C:\\Users\\Dell\\Desktop\\C# Advanced\\Homeworks\\SEDC_CSharp-Advanced-Homeworks\\Homework1\\SEDC.C#Advances.Homework1\\SEDC.C#Advances.Homework1\\SEDC.C#Advanced.Homework1.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\C# Advanced\\Homeworks\\Homework1\\SEDC.C#Advances.Homework1\\SEDC.C#Advances.Homework1\\SEDC.C#Advanced.Homework1.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\C# Advanced\\Homeworks\\SEDC_CSharp-Advanced-Homeworks\\Homework1\\SEDC.C#Advances.Homework1\\SEDC.C#Advances.Homework1\\SEDC.C#Advanced.Homework1.Domain.csproj",
         "projectName": "SEDC.C#Advanced.Homework1.Domain",
-        "projectPath": "C:\\Users\\Dell\\Desktop\\C# Advanced\\Homeworks\\Homework1\\SEDC.C#Advances.Homework1\\SEDC.C#Advances.Homework1\\SEDC.C#Advanced.Homework1.Domain.csproj",
+        "projectPath": "C:\\Users\\Dell\\Desktop\\C# Advanced\\Homeworks\\SEDC_CSharp-Advanced-Homeworks\\Homework1\\SEDC.C#Advances.Homework1\\SEDC.C#Advances.Homework1\\SEDC.C#Advanced.Homework1.Domain.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Desktop\\C# Advanced\\Homeworks\\Homework1\\SEDC.C#Advances.Homework1\\SEDC.C#Advances.Homework1\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Desktop\\C# Advanced\\Homeworks\\SEDC_CSharp-Advanced-Homeworks\\Homework1\\SEDC.C#Advances.Homework1\\SEDC.C#Advances.Homework1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

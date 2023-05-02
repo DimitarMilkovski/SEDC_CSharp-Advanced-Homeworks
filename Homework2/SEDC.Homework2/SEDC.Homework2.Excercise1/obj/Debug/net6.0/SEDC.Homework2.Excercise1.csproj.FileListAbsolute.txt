@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\C# Advanced\Homeworks\SEDC_CSharp-Advanced-Homeworks\Homework2\SEDC.Homework2\SEDC.Homework2.Excercise1\bin\Debug\net6.0\SEDC.Homework2.Excercise1.exe
+C:\Users\Dell\Desktop\C# Advanced\Homeworks\SEDC_CSharp-Advanced-Homeworks\Homework2\SEDC.Homework2\SEDC.Homework2.Excercise1\bin\Debug\net6.0\SEDC.Homework2.Excercise1.deps.json
+C:\Users\Dell\Desktop\C# Advanced\Homeworks\SEDC_CSharp-Advanced-Homeworks\Homework2\SEDC.Homework2\SEDC.Homework2.Excercise1\bin\Debug\net6.0\SEDC.Homework2.Excercise1.runtimeconfig.json
+C:\Users\Dell\Desktop\C# Advanced\Homeworks\SEDC_CSharp-Advanced-Homeworks\Homework2\SEDC.Homework2\SEDC.Homework2.Excercise1\bin\Debug\net6.0\SEDC.Homework2.Excercise1.dll
+C:\Users\Dell\Desktop\C# Advanced\Homeworks\SEDC_CSharp-Advanced-Homeworks\Homework2\SEDC.Homework2\SEDC.Homework2.Excercise1\bin\Debug\net6.0\SEDC.Homework2.Excercise1.pdb
+C:\Users\Dell\Desktop\C# Advanced\Homeworks\SEDC_CSharp-Advanced-Homeworks\Homework2\SEDC.Homework2\SEDC.Homework2.Excercise1\obj\Debug\net6.0\SEDC.Homework2.Excercise1.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\C# Advanced\Homeworks\SEDC_CSharp-Advanced-Homeworks\Homework2\SEDC.Homework2\SEDC.Homework2.Excercise1\obj\Debug\net6.0\SEDC.Homework2.Excercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\C# Advanced\Homeworks\SEDC_CSharp-Advanced-Homeworks\Homework2\SEDC.Homework2\SEDC.Homework2.Excercise1\obj\Debug\net6.0\SEDC.Homework2.Excercise1.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\C# Advanced\Homeworks\SEDC_CSharp-Advanced-Homeworks\Homework2\SEDC.Homework2\SEDC.Homework2.Excercise1\obj\Debug\net6.0\SEDC.Homework2.Excercise1.AssemblyInfo.cs
+C:\Users\Dell\Desktop\C# Advanced\Homeworks\SEDC_CSharp-Advanced-Homeworks\Homework2\SEDC.Homework2\SEDC.Homework2.Excercise1\obj\Debug\net6.0\SEDC.Homework2.Excercise1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C# Advanced\Homeworks\SEDC_CSharp-Advanced-Homeworks\Homework2\SEDC.Homework2\SEDC.Homework2.Excercise1\obj\Debug\net6.0\SEDC.Homework2.Excercise1.dll
+C:\Users\Dell\Desktop\C# Advanced\Homeworks\SEDC_CSharp-Advanced-Homeworks\Homework2\SEDC.Homework2\SEDC.Homework2.Excercise1\obj\Debug\net6.0\refint\SEDC.Homework2.Excercise1.dll
+C:\Users\Dell\Desktop\C# Advanced\Homeworks\SEDC_CSharp-Advanced-Homeworks\Homework2\SEDC.Homework2\SEDC.Homework2.Excercise1\obj\Debug\net6.0\SEDC.Homework2.Excercise1.pdb
+C:\Users\Dell\Desktop\C# Advanced\Homeworks\SEDC_CSharp-Advanced-Homeworks\Homework2\SEDC.Homework2\SEDC.Homework2.Excercise1\obj\Debug\net6.0\SEDC.Homework2.Excercise1.genruntimeconfig.cache
+C:\Users\Dell\Desktop\C# Advanced\Homeworks\SEDC_CSharp-Advanced-Homeworks\Homework2\SEDC.Homework2\SEDC.Homework2.Excercise1\obj\Debug\net6.0\ref\SEDC.Homework2.Excercise1.dll

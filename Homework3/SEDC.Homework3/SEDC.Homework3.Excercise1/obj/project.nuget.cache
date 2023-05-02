@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zsXLZjKc6GlfD3Jz4SWspHgyT3WKwM5w2O+0yPTWFvvnjpBsaAq5BxpWv5we5jQXhmtHQlhVcTZkk8cy2VuQYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\Desktop\\C# Advanced\\Homeworks\\SEDC_CSharp-Advanced-Homeworks\\Homework3\\SEDC.Homework3\\SEDC.Homework3.Excercise1\\SEDC.Homework3.Excercise1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
