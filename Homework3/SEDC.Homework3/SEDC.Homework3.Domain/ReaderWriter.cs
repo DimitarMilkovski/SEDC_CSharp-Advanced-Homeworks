@@ -11,7 +11,7 @@ namespace SEDC.Homework3.Domain
 
         public void Writer(string path, string text)
         {
-            using (StreamWriter sw = new StreamWriter(path,true))
+            using (StreamWriter sw = new StreamWriter(path))
             {
                 sw.WriteLine(text);
             }

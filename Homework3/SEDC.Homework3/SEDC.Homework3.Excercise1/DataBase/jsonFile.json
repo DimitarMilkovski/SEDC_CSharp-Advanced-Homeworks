@@ -1,23 +1,22 @@
 [
   {
-    "Name": "Bard",
+    "Name": "reks",
+    "Age": 2,
+    "Color": "brown"
+  },
+  {
+    "Name": "bard",
     "Age": 3,
     "Color": "black"
-  }
+  },
   {
-    "Name": "bobi",
+    "Name": "lesi",
+    "Age": 1,
+    "Color": "light brown"
+  },
+  {
+    "Name": "lili",
     "Age": 4,
-    "Color": "brown"
-  }
-  {
-    "Name": "Reks",
-    "Age": 2,
-    "Color": "Brown"
-  }
-  {
-    "Name": "boshko",
-    "Age": 15,
-    "Color": "yellow"
+    "Color": "grey"
   }
 ]
-

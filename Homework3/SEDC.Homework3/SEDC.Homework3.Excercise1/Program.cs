@@ -44,8 +44,17 @@ while (true)
     Console.Write("Please enter the Color of the dog: -->");
     string dogColor = Console.ReadLine();
 
-    Dog newDog = new Dog (dogName, dogAge, dogColor);
-    string dogObjectString = JsonConvert.SerializeObject(newDog);
+    List<Dog> listOfAllDogs = new List<Dog>() { };
+    string jsonFilleContent = readerWriter.Reader(filePath);
+
+    if (jsonFilleContent != "")
+    {
+        listOfAllDogs = JsonConvert.DeserializeObject<List<Dog>>(jsonFilleContent); 
+    }
+
+    listOfAllDogs.Add(new Dog (dogName, dogAge, dogColor));
+
+    string dogObjectString = JsonConvert.SerializeObject(listOfAllDogs);
 
     readerWriter.Writer(filePath,dogObjectString);
 
@@ -62,9 +71,9 @@ while (true)
     }
     else
     {
-        string jsonFilleContent =  readerWriter.Reader(filePath);
+        string jsonFilleContentNewContent =  readerWriter.Reader(filePath);
 
-        var listOfDogs = JsonConvert.DeserializeObject<List<Dog>>(jsonFilleContent);
+        List<Dog> listOfDogs = JsonConvert.DeserializeObject<List<Dog>>(jsonFilleContentNewContent);
 
         Console.WriteLine("List of all Dogs:");
         int counter = 1;
